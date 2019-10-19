@@ -8,7 +8,7 @@ class App extends Component {
   render() {
       return (
         <div className="tc">
-           <h1 className = 'f1' > PIXEFY  </h1>
+           <h1 className = 'f1'> PIXEFY  </h1>
             <div> 
                 <CategoryList categories = {categories} /> 
             </div>     
